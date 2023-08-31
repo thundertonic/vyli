@@ -1,5 +1,10 @@
+# Virtual environment
 venv
+
+# Output files
 *.stl
+
+## Python .gitignore ##
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
